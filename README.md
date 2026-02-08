@@ -17,10 +17,10 @@ Print the value of the attribute for each query. Print "Not Found!" without quot
 
 ## Sample Input
 4 3
-'<tag1 value = "HelloWorld">'
-'<tag2 name = "Name1">'
-'</tag2>'
-'</tag1>'
+`<tag1 value = "HelloWorld">`
+`<tag2 name = "Name1">`
+`</tag2>`
+`</tag1>`
 tag1.tag2~name
 tag1~name
 tag1~value
